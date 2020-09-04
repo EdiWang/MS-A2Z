@@ -246,4 +246,4 @@ Empower every letter on the alphabet to achieve more.
 
 ## Z
 
-- [Zune](https://www.microsoft.com/zh-cn/download/details.aspx?id=27163)
+- [Zune](https://en.wikipedia.org/wiki/Zune)
